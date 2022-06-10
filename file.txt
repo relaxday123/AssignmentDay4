@@ -1,0 +1,5 @@
+Schema: https
+Host: localhost:5001
+Path: /s
+Query string: ?=abc
+Request body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream

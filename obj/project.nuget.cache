@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RjZU0holXTtmfWgD9B34WykssbYPhioTatvSL5MC7RBlsdQBCNLUMyYaEpGp5XWm2oE69i06enT6HSLp1oiPIg==",
+  "success": true,
+  "projectFilePath": "i:\\My Drive\\nash\\asp.net core\\b1\\b1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
